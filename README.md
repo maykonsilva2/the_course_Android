@@ -21,3 +21,5 @@ The topics covered in this course include:
 - Material Design
 - Firebase
 - Google Maps
+
+[section 1](READMES/unerstandingGredle.md): Understanding Gradle
