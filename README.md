@@ -22,4 +22,4 @@ The topics covered in this course include:
 - Firebase
 - Google Maps
 
-[section 1](READMES/unerstandingGredle.md): Understanding Gradle
+[section 1](READMES/understandingGradle.md): Understanding Gradle
