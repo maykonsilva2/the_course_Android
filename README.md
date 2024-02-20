@@ -22,4 +22,6 @@ The topics covered in this course include:
 - Firebase
 - Google Maps
 
-[section 1](READMES/understandingGradle.md): Understanding Gradle
+section 1:
+[Understanding Gradle](READMES/understandingGradle.md)
+[Understanding the code of file MainActivity.kt](READMES/understanding_MainActivity.md)
