@@ -24,5 +24,8 @@ The topics covered in this course include:
 
 section 1:
 [Understanding Gradle](READMES/understandingGradle.md)
-[Understanding the code of file MainActivity.kt](READMES/understanding_MainActivity.md)
-[Understanding the MainActivity, OnCreat and Composable](READMES/Understanding_MainActivity_OnCreate_Composable.md)
+[Understanding package and imports](READMES/understanding_package_and_import.md)
+[Understanding the MainActivity, OnCreate and Composable](READMES/Understanding_MainActivity_OnCreate_Composable.md)
+
+section 2:
+[Integer Types in kotlin](READMES/Basic_types_kotlin.md)
