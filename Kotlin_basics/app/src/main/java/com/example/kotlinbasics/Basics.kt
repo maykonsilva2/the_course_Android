@@ -1,5 +1,6 @@
 package com.example.kotlinbasics
 
 fun main() {
-    println("Hello, world!")
+    val constantNumber: Int = 1
+    var mutableString: String = "Mutable String"
 }
