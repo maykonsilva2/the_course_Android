@@ -29,6 +29,12 @@ NOTE: When you initialize a variable with no explicit type specification, the co
     val oneLong = 1L // Long. To specify the log value explicit, append the suffix L to the value
     val oneByte: Byte = 1 //specify the explicit type
 ````
+NOTE: By default numbers are stored as ``Int`` unless you override the type.
+NOTE: If you let kotlin assign the variable type and later change the value of that variable to a larger value an error will occur.
+````kotlin
+    var number =  35800000 // the type is Int
+    number =  35800000000000000// The integer literal does not conform to the expected type Int
+````
 
 ### Floating-point types
 
@@ -43,3 +49,5 @@ NOTE: To explicitly specify the ``Float`` type for a value, add the suffix `f` o
 
 NOTE: kotlin also supports a conventional notation for floating-point numbers: 
 - Double by default: 123.5  -> 123.5e10
+    
+NOTE: By default , kotlin assign the variable type ``double``

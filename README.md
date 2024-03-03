@@ -29,3 +29,4 @@ section 1:
 
 section 2:
 [Integer Types in kotlin](READMES/Basic_types_kotlin.md)
+[Var and Val variable in kotlin](READMES/variables_var_and_val_in_kotlin.md)
