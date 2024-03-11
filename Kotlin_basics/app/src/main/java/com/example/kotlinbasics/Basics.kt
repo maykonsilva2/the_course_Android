@@ -1,5 +1,6 @@
 package com.example.kotlinbasics
 
 fun main() {
-    println("Hello, world!")
+    var myAge: UByte = 27u
+    println("My age: $myAge" )
 }
